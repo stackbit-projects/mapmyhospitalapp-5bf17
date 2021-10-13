@@ -66,9 +66,9 @@ sections:
         image_position: top
       - title: Guided Patient Journey
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          No more complicated paperwork. Just answer a few questions to go
+          through each step of the Patient Journey.
         content_align: left
         actions:
           - label: Learn More
