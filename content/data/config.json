@@ -48,7 +48,7 @@
         ]
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "/images/Component 1 (3).svg",
         "logo_alt": "App logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
