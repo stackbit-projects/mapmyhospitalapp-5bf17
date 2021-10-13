@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Know Your Patients The Moment They Walk In
-    subtitle: And Tell Them All About Yourself.
+    subtitle: And Tell Them All About Yourself
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
