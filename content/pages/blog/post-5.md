@@ -1,14 +1,7 @@
 ---
 title: 3 keys start a solo practice
-subtitle: >-
-  Having a private practice makes you a medical entrepreneur,
-
-  and your start-up is saving lives! But for doctors trying to do it solo, with
-  a
-
-  great practice comes great responsibility. Managing your patients is taken
-  over
-
+subtitle: |-
+  Managing your patients is taken over
   by managing your business, and that’s not why you became a doctor, right?
 date: '2020-06-02'
 categories:
