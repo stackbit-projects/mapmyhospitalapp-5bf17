@@ -47,9 +47,10 @@ sections:
         image_position: top
       - title: Let Them Know You
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          Customized visiting cards with your unique QR code lets your customer
+          visit you virtually. Chat and Share important information with all of
+          your patients.
         content_align: left
         actions:
           - label: Learn More
