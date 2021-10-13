@@ -10,7 +10,7 @@ sections:
       - label: App Store
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Try Now!
         url: /pricing
         style: secondary
     image: images/hero.svg
