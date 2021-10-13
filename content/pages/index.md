@@ -29,8 +29,8 @@ sections:
       - title: Know Your Patients
         title_align: left
         content: >
-          Just by scanning your visiting card, patients can book a session with
-          you. You get
+          Just by scanning your visiting card and answering a few questions,
+          patients can book a session with you.
         content_align: left
         actions:
           - label: Learn More
