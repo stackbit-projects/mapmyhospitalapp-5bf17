@@ -7,7 +7,7 @@ sections:
     content: |
       MapMyHospital makes a visit to the doctor easy to navigate.
     actions:
-      - label: App Store
+      - label: Know More
         url: /pricing
         style: primary
       - label: Try Now!
