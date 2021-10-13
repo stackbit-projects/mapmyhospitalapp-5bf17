@@ -13,7 +13,7 @@ excerpt: >-
   patients, and that’s not why you became a doctor, right?
 thumb_image: images/post-1.jpg
 thumb_image_alt: Post 5 placeholder image
-image: images/post-1.jpg
+image: /images/l-NIPb-9Njg.png
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
