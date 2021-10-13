@@ -48,9 +48,8 @@ sections:
       - title: Let Them Know You
         title_align: left
         content: >
-          Customized visiting cards with your unique QR code lets your customer
-          visit you virtually. Chat and Share important information with all of
-          your patients.
+          Customized visiting cards with your unique QR code lets patients visit
+          you virtually. Chat and Share important information with all of them.
         content_align: left
         actions:
           - label: Learn More
