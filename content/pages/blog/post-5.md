@@ -45,9 +45,30 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Here’s how you can have a successful practice:
 
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
+ 
 
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
+### My practice, my rules
 
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
+You are your own boss, so use that
+autonomy to dictate your own processes. Use your best judgement to setup administrative
+processes the way they make sense to you. It does mean you alone are
+responsible when things don’t work out, but that’s an opportunity for you to
+learn better and faster than any courses you’ve been through.
+
+### Do you need an MBA now? 
+
+NO, you don’t. But you do need to
+know how to market yourself. Set yourself apart from others by maintaining a
+definitive brand, clearly communicating your value proposition to patients, and
+delivering on your promise. TIP: pick a niche, be the best at it, and grow from
+there.
+
+### Pick your team Captain
+
+You’ve won the toss, but you can do
+this all alone. Get the best people you know on board, and build your A-team of
+support staff, nurses, and administrators. Even if they’re not very experienced,
+look for talented, and driven people. If you get the right people by your side,
+doesn’t matter where you want to go, you’ll get there.
