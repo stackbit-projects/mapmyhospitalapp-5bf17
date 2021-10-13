@@ -40,7 +40,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/icon-1.svg
+        image: /images/Group (1).svg
         image_alt: Icon 1
         image_align: left
         image_has_padding: true
