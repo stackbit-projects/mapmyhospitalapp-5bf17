@@ -1,8 +1,8 @@
 ---
 title: 3 keys start a solo practice
-subtitle: |-
-  Managing your patients is taken over
-  by managing your business, and that’s not why you became a doctor, right?
+subtitle: >-
+  For doctors going independent means managing your business more than your
+  patients, and that’s not why you became a doctor, right?
 date: '2020-06-02'
 categories:
   - content/data/categories/tutorials.yaml
