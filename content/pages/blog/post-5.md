@@ -9,9 +9,8 @@ categories:
 tags:
   - content/data/tags/tips.yaml
 excerpt: >-
-  Setting realistic expectations for yourself and your colleagues, putting down
-  your phone for 30 minutes a day, and the "no cellphone in bed" rule  — what's
-  the best way to get to Zen?
+  For doctors going independent means managing your business more than your
+  patients, and that’s not why you became a doctor, right?
 thumb_image: images/post-1.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/post-1.jpg
