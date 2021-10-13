@@ -47,8 +47,6 @@ layout: post
 ---
 Here’s how you can have a successful practice:
 
- 
-
 ### My practice, my rules
 
 You are your own boss, so use that
@@ -57,7 +55,7 @@ processes the way they make sense to you. It does mean you alone are
 responsible when things don’t work out, but that’s an opportunity for you to
 learn better and faster than any courses you’ve been through.
 
-### Do you need an MBA now? 
+### Do you need an MBA now?
 
 NO, you don’t. But you do need to
 know how to market yourself. Set yourself apart from others by maintaining a
