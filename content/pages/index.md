@@ -28,9 +28,9 @@ sections:
     grid_items:
       - title: Know Your Patients
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          Just by scanning your visiting card, patients can book a session with
+          you. You get
         content_align: left
         actions:
           - label: Learn More
