@@ -5,7 +5,7 @@ sections:
     title: Know Your Patients The Moment They Walk In
     subtitle: And Tell Them All About Yourself
     content: |
-      MapMyHospital makes the visit to a doctor feel
+      MapMyHospital makes a visit to the doctor easy to navigate.
     actions:
       - label: App Store
         url: /pricing
