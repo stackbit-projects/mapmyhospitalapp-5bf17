@@ -13,7 +13,7 @@ sections:
       - label: Try Now!
         url: /pricing
         style: secondary
-    image: images/hero.svg
+    image: /images/animation_640_kupvz8wm.gif
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
