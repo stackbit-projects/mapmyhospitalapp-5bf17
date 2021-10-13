@@ -63,7 +63,7 @@ definitive brand, clearly communicating your value proposition to patients, and
 delivering on your promise. TIP: pick a niche, be the best at it, and grow from
 there.
 
-### Pick your team Captain
+### Pick your team, Captain
 
 You’ve won the toss, but you can do
 this all alone. Get the best people you know on board, and build your A-team of
