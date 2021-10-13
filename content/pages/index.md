@@ -59,7 +59,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/icon-2.svg
+        image: /images/Group (2).svg
         image_alt: Icon 2
         image_align: left
         image_has_padding: true
