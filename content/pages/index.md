@@ -78,7 +78,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/Group (1).svg
+        image: /images/Group.svg
         image_alt: Icon 3
         image_align: left
         image_has_padding: true
