@@ -53,7 +53,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Business
-        subtitle: For Sales and Marketing professionals
+        subtitle: For corporate clients
         title_align: left
         content: |
           ***
