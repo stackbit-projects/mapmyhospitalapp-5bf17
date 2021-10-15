@@ -14,18 +14,17 @@ sections:
       - title: Personal
         subtitle: Just for you
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### Free!
 
-          per month, billed yearly
+          With all the basic features
 
-          * Up to 3 calendar integrations
-          * Up to 2 task lists
-          * Color coded notifications
-          * Up to 2 devices
-          * Productivity reporting
+          *   Patient Registration and Onboarding
+          *   Landing page for your practice
+          *   Dashboard to keep track of patients, prescriptions, and payments
+          *   Productivity reporting
         content_align: left
         actions:
           - label: Start with Personal
