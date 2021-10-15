@@ -33,7 +33,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Hospitals
-        subtitle: For you and your family members
+        subtitle: For large teams working together
         title_align: left
         content: |
           ***
