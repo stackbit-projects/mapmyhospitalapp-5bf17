@@ -49,7 +49,7 @@ sections:
           *   Shared patient lists and regimens
         content_align: left
         actions:
-          - label: Start with Family
+          - label: Start with Hospital
             url: /thank-you
             style: primary
         actions_align: left
