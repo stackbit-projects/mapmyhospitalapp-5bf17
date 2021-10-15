@@ -55,7 +55,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Pharma Representatives
-        subtitle: For your entire team
+        subtitle: For Sales and Marketing people for direct access
         title_align: left
         content: |-
           ---
