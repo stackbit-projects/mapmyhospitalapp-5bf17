@@ -54,7 +54,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Pharma Reps
+      - title: Pharma Representatives
         subtitle: For your entire team
         title_align: left
         content: |-
