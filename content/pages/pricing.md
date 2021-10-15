@@ -57,18 +57,18 @@ sections:
       - title: Pharma Representatives
         subtitle: For Sales and Marketing people to drive conversions
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### Rs. 249
 
-          per month, billed yearly
+          per month, per representative
 
-          * Unlimited calendars
-          * Unlimited task list integrations
-          * Project-based color coding
-          * Scheduled notifications
-          * Task delegation
+          *   Special entry card to get noticed easily
+          *   Unlimited task list integrations
+          *   Access to all doctors on the platform
+          *   Scheduled notifications
+          *   Promotion and Marketing tools
         content_align: left
         actions:
           - label: Start with Business
