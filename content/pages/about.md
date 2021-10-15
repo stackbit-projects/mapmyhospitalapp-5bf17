@@ -30,7 +30,7 @@ layout: page
 ---
 MapMyHospital allows patients to book consults, chat and share medical documents with their doctors. It allows doctors to see all their appointments and patient details on a single dashboard. We aim to make it easy and intuitive for patients and doctors to interact and build a long lasting relationship.
 
-![](/images/28619-doctor-virtual-call-draft-2.gif)
+![](/images/74792-2-doctors.gif)
 
 
 
