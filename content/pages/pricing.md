@@ -3,7 +3,9 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pricing
-    subtitle: MapMyHospital is free for individuals!
+    subtitle: >-
+      MapMyHospital is free for Solo Practitioners! We have affordable plans for
+      Hospitals and Salespeople
     align: center
     padding_top: large
     padding_bottom: small
