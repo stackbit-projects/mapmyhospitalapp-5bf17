@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Pricing
     subtitle: >-
-      apMyHospital is free for Solo Practitioners! We have affordable plans for
+      MapMyHospital is free for Solo Practitioners! We have affordable plans for
       Hospitals and Pharma Representatives
     align: center
     padding_top: large
