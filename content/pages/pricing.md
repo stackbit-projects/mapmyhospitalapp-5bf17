@@ -55,7 +55,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Pharma Representatives
-        subtitle: For Sales and Marketing people to
+        subtitle: For Sales and Marketing people to drive conversions
         title_align: left
         content: |-
           ---
