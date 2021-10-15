@@ -35,18 +35,18 @@ sections:
       - title: Family
         subtitle: For you and your family members
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### Rs. 199
 
-          per month, billed yearly
+          per doctor, per month
 
-          * Shared calendar integrations
-          * Unlimited task lists
-          * Synchronized reminders
-          * Shared badgets
-          * Up to 5 devices
+          *   Common patient registration and onboarding
+          *   Shared calendar integrations, group consults
+          *   Unlimited task lists
+          *   Synchronized reminders
+          *   Shared patient lists and regimens
         content_align: left
         actions:
           - label: Start with Family
