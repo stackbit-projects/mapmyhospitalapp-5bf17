@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Know Your Patients The Moment They Walk In
     subtitle: And Tell Them All About Yourself
-    content: |
-      MapMyHospital makes a visit to the doctor easy to navigate.
+    content: >
+      MapMyHospital makes it easy for doctors to onboard patients and walk them
+      through the entire journey.
     actions:
       - label: Know More
         url: /pricing
