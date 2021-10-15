@@ -58,7 +58,7 @@ sections:
         content: |
           ***
 
-          ### Rs. 249
+          ### Let's talk
 
           per month, per representative
 
