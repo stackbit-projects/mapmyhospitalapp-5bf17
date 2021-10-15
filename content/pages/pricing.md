@@ -52,7 +52,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Pharma Representatives
+      - title: Business
         subtitle: For Sales and Marketing professionals
         title_align: left
         content: |
