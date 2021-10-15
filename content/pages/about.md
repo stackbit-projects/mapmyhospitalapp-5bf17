@@ -4,34 +4,35 @@ seo:
   title: About
   description: This is the about us page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: About
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the about us page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/team.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: About
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the about us page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/team.jpg
       relativeUrl: true
 layout: page
 ---
+MapMyHospital allows patients to book consults, chat and share medical documents with their doctors. It allows doctors to see all their appointments and patient details on a single dashboard. We aim to make it easy and intuitive for patients and doctors to interact and build a long lasting relationship.
 
-We are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
+![](/images/28619-doctor-virtual-call-draft-2.gif)
 
-![Our team](/images/team.jpg)
+
 
 ## Work Life Balance
 
