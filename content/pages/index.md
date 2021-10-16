@@ -49,7 +49,7 @@ sections:
         title_align: left
         content: >
           Your unique QR code lets patients visit you virtually. Chat and Share
-          important information with all of them.
+          important information all in one place
         content_align: left
         actions:
           - label: Learn More
