@@ -152,7 +152,7 @@ sections:
       Sign up now to manage your entire practice from a single screen — it
       doesn't get easier than this!
     actions:
-      - label: App Store
+      - label: Know More
         url: /pricing
         style: primary
       - label: Google Play
