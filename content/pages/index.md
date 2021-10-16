@@ -133,7 +133,7 @@ sections:
       - title: >-
           “Fantastic app for planning your day and future tasks. Works perfectly
           everyday!”
-        subtitle: 'Alyvia Cope, Design at Company'
+        subtitle: 'Dr. Atharva Choudhary, BDS'
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
