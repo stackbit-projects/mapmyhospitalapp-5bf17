@@ -153,7 +153,7 @@ sections:
       doesn't get easier than this!
     actions:
       - label: Know More
-        url: /pricing
+        url: /about
         style: primary
       - label: Google Play
         url: /pricing
