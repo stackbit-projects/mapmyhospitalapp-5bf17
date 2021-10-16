@@ -139,7 +139,7 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: “Another very real review by the real me”
-        subtitle: 'Travis Guidelines, Manager at Company'
+        subtitle: 'Dr. Teja Marko, BDSM'
         image: /images/Component 1ac.png
         image_alt: Person 2 photo
         media_position: left
