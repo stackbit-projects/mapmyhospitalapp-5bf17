@@ -1,5 +1,5 @@
 ---
-title: 3 Keys To Start a Solo Practice
+title: 3 Keys To Manage a Solo Practice
 subtitle: >-
   For doctors going independent means managing your business more than your
   patients, and that’s not why you became a doctor, right?
