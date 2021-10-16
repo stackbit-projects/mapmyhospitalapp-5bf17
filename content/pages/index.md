@@ -29,7 +29,7 @@ sections:
       - title: Know Your Patients
         title_align: left
         content: >
-          Patients can book a session with you just by scanning your visiting
+          Patients can book a consult with you just by scanning your visiting
           card and answering a few questions.
         content_align: left
         actions:
