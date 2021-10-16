@@ -8,7 +8,7 @@ sections:
       MapMyHospital makes it easy for doctors to onboard patients
     actions:
       - label: Know More
-        url: /pricing
+        url: /about
         style: primary
       - label: Try Now!
         url: /pricing
