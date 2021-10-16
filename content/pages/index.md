@@ -155,7 +155,7 @@ sections:
       - label: Know More
         url: /about
         style: primary
-      - label: Google Play
+      - label: Try Now
         url: /pricing
         style: secondary
         has_icon: false
