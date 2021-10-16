@@ -134,7 +134,7 @@ sections:
           “Fantastic app for planning your day and future tasks. Works perfectly
           everyday!”
         subtitle: 'Dr. Atharva Choudhary, BDS'
-        image: /images/Component 1ac.svg
+        image: /images/Component 1ac.png
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
