@@ -148,9 +148,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Regain Control of your Workflow
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+    content: >
+      Sign up now to manage your entire practice from a single screen — it
+      doesn't get easier than this!
     actions:
       - label: App Store
         url: /pricing
