@@ -139,7 +139,8 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "&copy "
     },
     "announcement": {
         "has_anncmnt": true,
