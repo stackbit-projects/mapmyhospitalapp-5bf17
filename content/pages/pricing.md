@@ -34,7 +34,8 @@ sections:
         subtitle: For large teams working together
         title_align: left
         content: |
-          \<br>
+          \*\*\* ###
+
 
           Let's Talk!
 
