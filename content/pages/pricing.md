@@ -34,9 +34,9 @@ sections:
         subtitle: For large teams working together
         title_align: left
         content: |
-          ***
 
-          ### Rs. 199
+
+          Let's Talk!
 
           per doctor, per month
 
