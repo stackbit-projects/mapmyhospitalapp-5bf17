@@ -30,29 +30,6 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Hospitals
-        subtitle: For large teams working together
-        title_align: left
-        content: |
-          \*\*\* ###
-
-
-          Let's Talk!
-
-          per doctor, per month
-
-          *   Common patient registration and onboarding
-          *   Shared calendar integrations, group consults
-          *   Unlimited task lists
-          *   Synchronized reminders
-          *   Shared patient lists and regimens
-        content_align: left
-        actions:
-          - label: Start with Hospitals
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
       - title: Business
         subtitle: For corporate clients
         title_align: left
