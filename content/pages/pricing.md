@@ -61,7 +61,7 @@ sections:
 
           ### Know More
 
-          per month, per representative
+          per month, per user
 
           *   Special entry card to get noticed easily
           *   Unlimited task list integrations
