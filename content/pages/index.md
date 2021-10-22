@@ -31,7 +31,7 @@ sections:
         title_align: left
         content: >
           Patients can book a consult with you just by scanning your visiting
-          card and answering a few questions.
+          card and taking a quick quiz.
         content_align: left
         actions:
           - label: Learn More
