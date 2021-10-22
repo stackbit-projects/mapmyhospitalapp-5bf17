@@ -89,7 +89,7 @@ sections:
         content: >
           MapMyHosptial is a productivity tool for doctors to easily manage the
           patient journey, from registration to rescheduling.
-      - title: How does it work?
+      - title: How is it good for patients?
         content: >
           Patients scan a QR code to begin their journey, answer a few
           questions, and done! With all documents online, no need to carry a
