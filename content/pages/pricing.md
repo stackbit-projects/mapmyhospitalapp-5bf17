@@ -95,9 +95,9 @@ sections:
           questions, and done! With all documents online, no need to carry a
           file for every visit.
       - title: How is it good for doctors?
-        content: |-
-          As soon as you complete a task, App Land updates your task lists on
-          their respective platforms to make sure it's crossed-off immediately.
+        content: >
+          As soon as patients registered, you can see them on your dashboard
+          along with all their info. make your work visual and intuitive.
       - title: What if someone else completes my task?
         content: |-
           Once a task is complete, you will get a notification letting you know
