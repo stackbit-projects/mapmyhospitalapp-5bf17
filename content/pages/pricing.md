@@ -59,7 +59,7 @@ sections:
         content: |
           ***
 
-          ### Let's talk
+          ### Know More
 
           per month, per representative
 
