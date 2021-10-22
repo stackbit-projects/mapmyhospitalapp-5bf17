@@ -89,7 +89,7 @@ sections:
         content: >
           MapMyHosptial is a productivity tool for doctors to easily manage the
           patient journey, from registration to rescheduling.
-      - title: Do you support native iPhone apps?
+      - title: How does it work?
         content: |-
           Absolutely. Both native iOS and Android apps are supported and work
           seamlessly with App Land.
