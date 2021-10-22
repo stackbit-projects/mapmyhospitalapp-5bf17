@@ -67,7 +67,6 @@ sections:
           *   Schedule Visits, Tests, and Admissions to reduce down time
           *   Manage accounts for doctors and admins from one place
           *   Direct patients at the reception to the right doctor for them
-          *   Bring in experts for consultations
         content_align: left
         actions:
           - label: Start with Business
