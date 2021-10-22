@@ -122,7 +122,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-2.svg
+        image: /images/undraw_online_organizer_ofxm 1.svg
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
