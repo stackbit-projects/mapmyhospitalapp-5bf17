@@ -63,11 +63,11 @@ sections:
 
           per month, per user
 
-          *   Special entry card to get noticed easily
-          *   Unlimited task list integrations
-          *   Access to all doctors on the platform
-          *   Scheduled notifications
-          *   Promotion and Marketing tools
+          *   All the basic features for every doctor
+          *   Schedule Visits, Tests, and Admissions to reduce down time
+          *   Manage accounts for doctors and admins from one place
+          *   Direct patients at the reception to the right doctor for them
+          *   Bring in experts for consultations
         content_align: left
         actions:
           - label: Start with Business
