@@ -99,10 +99,9 @@ sections:
           As soon as patients register, you can see them on your dashboard along
           with all their info. make your work visual and intuitive.
       - title: Why should I use MapMyHospital?
-        content: |-
-          Once a task is complete, you will get a notification letting you know
-          that you have one less thing to worry about - no matter who completes
-          it!
+        content: >
+          Being a doctor takes a lot of work, we help you make it visual so it
+          feels less intimidating.
       - title: Which integrations do you have?
         content: |-
           We work with all major productivity apps and platforms and support all
