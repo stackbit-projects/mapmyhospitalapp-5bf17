@@ -139,7 +139,7 @@ sections:
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
-      - title: “Another very real review by the real me”
+      - title: “Helped me start my own practice right out of college”
         subtitle: 'Dr. Teja Marko, BDSM'
         image: /images/Component 1ac.png
         image_alt: Person 2 photo
