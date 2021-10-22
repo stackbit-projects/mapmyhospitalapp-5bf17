@@ -107,9 +107,9 @@ sections:
           Its much better. Meet patients when YOU want to, schedule your
           consultations without calling every patient.
       - title: Amazing! How can I get my peers to use this too?
-        content: |-
-          You can cancel anytime and your tasks and calendars will remain
-          unaffected.
+        content: >
+          If you love our tools, send an invite link to your colleagues to save
+          more of their time. 
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
