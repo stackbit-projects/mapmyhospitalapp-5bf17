@@ -11,7 +11,7 @@ sections:
       - label: Know More
         url: /about
         style: primary
-      - label: Try Now!
+      - label: Try For FREE!
         url: /pricing
         style: secondary
     image: /images/animation_640_kupvz8wm.gif
