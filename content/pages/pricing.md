@@ -94,7 +94,7 @@ sections:
           Patients scan a QR code to begin their journey, answer a few
           questions, and done! With all documents online, no need to carry a
           file for every visit.
-      - title: Will my tasks be marked as done on their platform?
+      - title: How is it good for doctors?
         content: |-
           As soon as you complete a task, App Land updates your task lists on
           their respective platforms to make sure it's crossed-off immediately.
