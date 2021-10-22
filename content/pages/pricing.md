@@ -98,7 +98,7 @@ sections:
         content: >
           As soon as patients register, you can see them on your dashboard along
           with all their info. make your work visual and intuitive.
-      - title: What if someone else completes my task?
+      - title: Why should I use MapMyHospital?
         content: |-
           Once a task is complete, you will get a notification letting you know
           that you have one less thing to worry about - no matter who completes
