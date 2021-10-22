@@ -86,10 +86,9 @@ sections:
     title: FAQ
     grid_items:
       - title: What is MapMyHospital?
-        content: |-
-          App Land currently supports English, Spanish, German and French. Other
-          languages are on the roadmap and should be rolled out by the end of
-          the year.
+        content: >
+          MapMyHosptial is a productivity tool for doctors to easily manage the
+          patient journey, from registration to rescheduling.
       - title: Do you support native iPhone apps?
         content: |-
           Absolutely. Both native iOS and Android apps are supported and work
