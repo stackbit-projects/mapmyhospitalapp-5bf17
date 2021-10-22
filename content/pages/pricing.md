@@ -92,7 +92,8 @@ sections:
       - title: How does it work?
         content: >
           Patients scan a QR code to begin their journey, answer a few
-          questions, and done! You can see all your patients in one place.
+          questions, and done! With all documents online, no need to carry a
+          file for every visit.
       - title: Will my tasks be marked as done on their platform?
         content: |-
           As soon as you complete a task, App Land updates your task lists on
