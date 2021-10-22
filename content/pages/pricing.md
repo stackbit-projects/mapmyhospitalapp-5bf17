@@ -100,8 +100,8 @@ sections:
           with all their info. make your work visual and intuitive.
       - title: Why should I use MapMyHospital?
         content: >
-          Being a doctor takes a lot of work, we help you make it visual so it
-          feels less intimidating.
+          Being a doctor takes a lot of work. We help you be productive and
+          prevent burnout
       - title: Which integrations do you have?
         content: |-
           We work with all major productivity apps and platforms and support all
