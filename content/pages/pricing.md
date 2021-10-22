@@ -90,9 +90,9 @@ sections:
           MapMyHosptial is a productivity tool for doctors to easily manage the
           patient journey, from registration to rescheduling.
       - title: How does it work?
-        content: |-
-          Absolutely. Both native iOS and Android apps are supported and work
-          seamlessly with App Land.
+        content: >
+          Patients scan a QR code to begin their journey, answer a few
+          questions, and done! You can see all your patients in one place.
       - title: Will my tasks be marked as done on their platform?
         content: |-
           As soon as you complete a task, App Land updates your task lists on
