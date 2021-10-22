@@ -59,7 +59,7 @@ sections:
         content: |
           ***
 
-          ### Know More
+          ### Know more
 
           per month, per user
 
