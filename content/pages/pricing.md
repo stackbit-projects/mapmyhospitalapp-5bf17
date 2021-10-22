@@ -85,7 +85,7 @@ sections:
   - type: grid_section
     title: FAQ
     grid_items:
-      - title: Can I use multiple languages?
+      - title: What is MapMyHospital?
         content: |-
           App Land currently supports English, Spanish, German and French. Other
           languages are on the roadmap and should be rolled out by the end of
