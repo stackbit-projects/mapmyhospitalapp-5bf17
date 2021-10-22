@@ -68,8 +68,8 @@ sections:
       - title: Guided Patient Journey
         title_align: left
         content: >
-          No more complicated paperwork. Just answer a few questions to go
-          through each step of the Patient Journey.
+          No more complicated paperwork. Just answer a few questions to go from
+          reception to rescheduling.
         content_align: left
         actions:
           - label: Learn More
