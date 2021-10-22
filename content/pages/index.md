@@ -111,10 +111,10 @@ sections:
         media_width: fifty
       - title: Comprehensive Task List
         subtitle: Always be in control
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: >
+          Doctors have stuff to do all the time: see patients, do tests, write
+          prescriptions, keep up to date with the latest trends. Get all your
+          tasks in one place for easy management.
         actions:
           - label: Take a look
             url: /pricing
