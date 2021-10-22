@@ -54,7 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Institutions
-        subtitle: For corporate clients
+        subtitle: For large hospitals
         title_align: left
         content: |
           ***
