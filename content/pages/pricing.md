@@ -31,7 +31,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
