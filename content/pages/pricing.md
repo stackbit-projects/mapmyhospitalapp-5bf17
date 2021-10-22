@@ -31,17 +31,19 @@ sections:
         actions_align: left
         actions_width: full-width
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Start for FREE!
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          MapMyHospital is free to use for individual doctors to manage and grow
+          their private practice.
 
 
-          - Lorem ipsum
+          *   Increase productivity, not costs
 
-          - dolor sit amet
+          *   Help your patients meet you without any hassle
+
+          *   Make a good first impression
         content_align: left
         actions: []
         actions_align: left
