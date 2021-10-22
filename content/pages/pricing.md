@@ -103,9 +103,9 @@ sections:
           Being a doctor takes a lot of work. We help you be productive and
           prevent burnout.
       - title: Is it like a calender?
-        content: |-
-          We work with all major productivity apps and platforms and support all
-          native iOS and Android apps.
+        content: >
+          Its much better. Meet patients when YOU want to, schedule your
+          consultations without calling every patient.
       - title: What is your cancellation policy?
         content: |-
           You can cancel anytime and your tasks and calendars will remain
