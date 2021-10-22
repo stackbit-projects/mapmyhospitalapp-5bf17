@@ -205,7 +205,7 @@ seo:
       value: Map My Hospital
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: Free and easy productivity tool for doctors
       keyName: property
     - name: 'og:image'
       value: /images/Component 1 (3).svg
