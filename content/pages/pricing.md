@@ -96,8 +96,8 @@ sections:
           file for every visit.
       - title: How is it good for doctors?
         content: >
-          As soon as patients registered, you can see them on your dashboard
-          along with all their info. make your work visual and intuitive.
+          As soon as patients register, you can see them on your dashboard along
+          with all their info. make your work visual and intuitive.
       - title: What if someone else completes my task?
         content: |-
           Once a task is complete, you will get a notification letting you know
