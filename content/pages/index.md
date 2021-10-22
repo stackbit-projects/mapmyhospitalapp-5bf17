@@ -196,7 +196,7 @@ sections:
     background_color: none
 seo:
   title: Map My Hospital
-  description: The preview of the App theme
+  description: Free and easy productivity tool for doctors
   extra:
     - name: 'og:type'
       value: website
