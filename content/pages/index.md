@@ -50,7 +50,7 @@ sections:
         title_align: left
         content: >
           Your unique QR code lets patients visit you virtually. Chat and Share
-          important information all in one place
+          important information all in one place.
         content_align: left
         actions:
           - label: Learn More
