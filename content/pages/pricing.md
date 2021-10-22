@@ -102,7 +102,7 @@ sections:
         content: >
           Being a doctor takes a lot of work. We help you be productive and
           prevent burnout.
-      - title: Which integrations do you have?
+      - title: Is it like a calender?
         content: |-
           We work with all major productivity apps and platforms and support all
           native iOS and Android apps.
