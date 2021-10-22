@@ -53,7 +53,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Business
+      - title: Institutions
         subtitle: For corporate clients
         title_align: left
         content: |
